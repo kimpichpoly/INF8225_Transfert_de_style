@@ -19,4 +19,4 @@ https://arxiv.org/pdf/1703.07511v3.pdf
 
 https://github.com/MarcoForte/closed-form-matting
 
-https://github.com/NicolasZucchet/Photorealistic-Style-Transfer
+https://github.com/CSAILVision/semantic-segmentation-pytorch
