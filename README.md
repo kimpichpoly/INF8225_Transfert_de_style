@@ -10,3 +10,9 @@ Maxime Fuchs 2033144
 Kim Piché 1688938
 
 https://colab.research.google.com/drive/1Sy806W8lWKUM45rd2-nfwedmYxmOJGhk?usp=sharing
+
+Références:
+
+https://arxiv.org/pdf/1508.06576.pdf
+
+https://arxiv.org/pdf/1703.07511v3.pdf
