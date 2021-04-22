@@ -18,3 +18,5 @@ https://arxiv.org/pdf/1508.06576.pdf
 https://arxiv.org/pdf/1703.07511v3.pdf
 
 https://github.com/MarcoForte/closed-form-matting
+
+https://github.com/NicolasZucchet/Photorealistic-Style-Transfer
